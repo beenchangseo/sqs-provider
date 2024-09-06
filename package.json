@@ -1,6 +1,6 @@
 {
   "name": "@beenchangseo/sqs-provider",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "It is nodejs lib aws-sqs provider",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
@@ -11,6 +11,10 @@
     "prepare": "npm run build"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beenchangseo/sqs-provider"
+  },
   "author": "ChangBin Seo <beenchangseo@gmail.com>",
   "license": "ISC",
   "dependencies": {
